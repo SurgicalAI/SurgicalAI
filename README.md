@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @SurgicalAIDatatScienceNurse
+- 👋 Hi, I’m @SurgicalAI
 - 👀 I’m interested in MachineLearning,AI,NLP,Data Annotation.
-- 🌱 I’m currently learning medical, surgical Algorithms.
+- 🌱 I’m currently working and deploying medical, surgical , and all types of cool projects & algorithms(I love algorithms).
 - 💞️ I’m looking to collaborate on projects .
 - 📫 How to reach me dionelagall27@gmail.com 
 
